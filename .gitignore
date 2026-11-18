@@ -1,0 +1,22 @@
+# Local designs, installation settings and generated results
+config.local.il
+*.local.il
+test-runs/
+dist/
+*.zip
+*.zip.sha256
+*.log
+*.log.*
+*.cdslck*
+*.oa
+*.gds
+*.gdsii
+*.oasis
+*.oas
+*.db
+.env
+.env.*
+__pycache__/
+CDS.log*
+core
+core.*
